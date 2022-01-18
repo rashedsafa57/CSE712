@@ -1,26 +1,26 @@
 Paper Title:
-A Comparative Study of Sentimental Analysis on Bangla Noisy Texts
+A Comparative Study of Sentiment Analysis on Bangla Noisy Texts
 
 
 Link to unlisted youtube video:
-https://www.youtube.com/watch?v=TAAm3MDcj3s
+https://youtu.be/VaLoCgW2XOk
 
 
 
-Conference URL: http://www.cwcbd.net/index.html
+Conference URL: https://icaeee2022.com
 
 
 
-Conference / Paper submission login URL: https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FCWCBD2022%2F
+Conference / Paper submission login URL: https://easychair.org/conferences/submission_uploaded?a=27918968;files=1;submission=5806901;track=278920
 
 
 
 
-Paper submission date (to workshop/conference): 18/01/2022, 01:09am
+Paper submission date (to workshop/conference): 19/01/2022, 02:38am
 
 
 
-Paper submission ID: 2
+Paper submission ID: 222
 
 
 
