@@ -33,6 +33,8 @@ https://bucse712fall2021.slack.com/archives/C02GH7LKZT4/p1634995557005500?thread
 https://bucse712fall2021.slack.com/archives/C02GAEJFH70/p1634386376007000?thread_ts=1634383491.005900&cid=C02GAEJFH70
 https://bucse712fall2021.slack.com/archives/C02GAEJFH70/p1634383570006200?thread_ts=1634383491.005900&cid=C02GAEJFH70
 https://bucse712fall2021.slack.com/archives/C02GAEJFH70/p1634383548006000?thread_ts=1634383491.005900&cid=C02GAEJFH70
+https://bucse712fall2021.slack.com/archives/D02V74A5C5T/p1643023074000600
+https://bucse712fall2021.slack.com/archives/D02V74A5C5T/p1643023121001300
 
 Submitter:
 21366027 Name Md. Rashedul Hasan Safa
